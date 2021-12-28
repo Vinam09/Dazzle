@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Demo
+
+![App Demo](./Dazzle.gif)
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
